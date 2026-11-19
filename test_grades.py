@@ -1,6 +1,5 @@
-import pytest
 from grades import is_pass, result
-
+import pytest
 
 @pytest.mark.parametrize(
     "score, expected",
