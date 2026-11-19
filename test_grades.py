@@ -1,6 +1,4 @@
-import pytest
 
-from grades import is_pass, result
 
 
 @pytest.mark.parametrize(
