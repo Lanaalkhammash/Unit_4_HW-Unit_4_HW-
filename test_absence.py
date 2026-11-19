@@ -1,5 +1,5 @@
-import pytest
 from absence import can_sit_exam, status
+import pytest
 
 
 @pytest.mark.parametrize(
