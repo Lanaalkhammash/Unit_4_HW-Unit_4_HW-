@@ -1,5 +1,3 @@
-
-
 MAX_ABSENCES = 5
 
 
