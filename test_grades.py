@@ -1,6 +1,3 @@
-
-
-
 @pytest.mark.parametrize(
     "score, expected",
     [
