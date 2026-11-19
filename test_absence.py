@@ -1,5 +1,3 @@
-
-
 @pytest.mark.parametrize(
     "absences, expected",
     [
