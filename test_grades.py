@@ -1,3 +1,7 @@
+import pytest
+
+
+
 @pytest.mark.parametrize(
     "score, expected",
     [
